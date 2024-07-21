@@ -1,4 +1,4 @@
 In this source file we have data about the product transaction in the technoedge sales.
-we have data from  the year 2020-2022.
+we have data from  the year 2020-2022 with every month.(monthly sales).
 The data contains the details about the order's, customer's,product's,along with the sales,quantity,discount,profit.
 we have build a report based on this information according to our purpose.
