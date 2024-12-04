@@ -26,42 +26,7 @@ Report and visualizations tailored for end users to identify:
 Most common genres.
 Most prolific directors.
 Release trends by year.
+
 Technologies Used
 Power BI: For building interactive dashboards and visualizations.
-Python: For data cleaning, transformation, and preliminary analysis.
-SQL: For querying and managing the dataset.
-Setup Instructions
-Clone this repository:
-bash
-Copy code
-git clone https://github.com/YourUsername/Amazon-Prime-Video-Analysis.git
-Load the dataset (amazon_prime_video_data.csv) into your SQL server or analysis tool.
-Use the Power BI file (amazon_prime_dashboard.pbix) to explore the pre-built dashboard.
-(Optional) Use the Python scripts (data_cleaning.py) for additional data preprocessing.
-Usage
-End Users:
-View the Power BI dashboard to extract insights on Amazon Prime Video's catalog.
-Analyze trends, genres, and country-specific distributions.
-Developers/Analysts:
-Use the Python scripts for further data cleaning and exploratory analysis.
-Enhance or modify the Power BI dashboard as needed.
-Screenshots
-Dashboard Overview
 
-Genre Analysis
-
-Contributing
-Contributions are welcome! If you'd like to contribute:
-
-Fork this repository.
-Create a feature branch:
-bash
-Copy code
-git checkout -b feature-name
-Commit your changes and push them to your fork.
-Submit a pull request.
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-Author
-If you have any questions or suggestions, feel free to reach out!
