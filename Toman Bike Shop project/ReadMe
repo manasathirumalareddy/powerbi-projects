@@ -1,7 +1,10 @@
 # **Bike Sales and Analytics Report**
 
 ## **Description**  
-This project involves analyzing a dataset containing detailed information about bikes. The raw data was stored in **CSV format** and later transferred into a **SQL Server Management Studio (SSMS) database**. Specific columns were selected by performing queries with **joins across multiple tables** for the years **2021** and **2022**. Based on the resulting query, a report was built to meet business and end-user requirements.
+This project involves analyzing a dataset containing detailed information about bikes. The raw data was stored in **CSV 
+format** and later transferred into a **SQL Server Management Studio (SSMS) database**. Specific columns were selected by
+performing queries with **joins across multiple tables** for the years **2021** and **2022**. Based on the resulting query,
+a report was built to meet business and end-user requirements.
 
 ---
 
@@ -24,8 +27,7 @@ The dataset contains the following key information:
 
 ---
 
-## **Technologies Used**  
-- **SQL Server Management Studio (SSMS)**: For data storage, querying, and table joins.  
+## **Technologies Used**   
 - **Power BI**: For building dynamic reports and dashboards.  
 - **Excel**: For initial data storage and preprocessing.  
 
@@ -41,4 +43,5 @@ The dataset contains the following key information:
 
 ---
 
-This **Bike Sales and Analytics Report** showcases the value of integrating database queries with reporting tools to generate actionable insights and drive business success.
+This **Bike Sales and Analytics Report** showcases the value of integrating database queries with reporting tools to generate
+actionable insights and drive business success.
