@@ -1,3 +1,37 @@
-This file contains the details about the data professional survey.
-The dataset include details like job role,salary,country,education level .
-A report was build using this data according to the business requirement or our requirement.
+Data Professional Survey Analysis
+
+Description
+This project involves analyzing a dataset collected through a survey of data professionals. The dataset contains valuable 
+information about job roles, salaries, countries, education levels, and more. Based on this dataset, a report was created
+to fulfill specific business requirements or analysis goals, providing actionable insights into the trends and demographics
+within the data professional community.
+
+Dataset Overview
+The dataset captures various attributes about data professionals, including:
+
+Job Role: Title or position (e.g., Data Scientist, Analyst, Engineer).
+Salary: Compensation data across different roles and regions.
+Country: Geographic location of respondents.
+Education Level: Highest educational qualification attained.
+Source: The survey data was gathered to analyze trends in the data industry and help businesses understand workforce dynamics.
+
+Features
+Salary trends based on job roles, regions, and education levels.
+Insights into the most common roles and educational backgrounds of data professionals.
+Country-specific analysis to identify opportunities and challenges.
+Interactive visualizations to explore the data in-depth.
+
+Technologies Used
+Power BI: For building interactive dashboards and visualizations.
+
+Recruiters and Hiring Managers:
+Use the report to identify salary benchmarks and regional trends.
+
+Business Decision Makers:
+Leverage insights into workforce qualifications and trends for better hiring strategies.
+
+Data Enthusiasts:
+Explore the dataset to understand the landscape of the data profession.
+
+
+
