@@ -1,4 +1,47 @@
-In this source file we have data about the product transaction in the technoedge sales.
-we have data from  the year 2020-2022 with every month.(monthly sales).
-The data contains the details about the order's, customer's,product's,along with the sales,quantity,discount,profit.
-we have build a report based on this information according to our purpose.
+# **TechnoEdge Product Transaction Analytics Report**
+
+## **Description**  
+This project analyzes the **TechnoEdge sales** transaction data from **2020 to 2022**, providing detailed insights into 
+**monthly sales**. The dataset includes **order details**, **customer information**, **product information**, as well as 
+**sales figures**, **quantity sold**, **discounts**, and **profit margins**. A report was built based on this data to extract
+the key insights needed for optimizing sales strategies and improving profitability.
+
+---
+
+## **Dataset Overview**  
+The dataset contains the following key details:  
+- **Order Details**: Information related to each transaction, including order ID, date, and total value.  
+- **Customer Details**: Demographics and customer information such as location and segment.  
+- **Product Details**: Product name, ID, and category.  
+- **Sales Metrics**: Data on quantity sold, sales value, discount applied, and profit margins.  
+
+> **Source**: The data covers **monthly sales** from **2020** to **2022**, offering insights into performance trends over time.
+
+---
+
+## **Features**  
+- Monthly sales analysis for the years **2020 to 2022**.  
+- Detailed breakdown of profit, sales, and discount patterns by product and customer.  
+- Performance analysis based on product categories and customer segments.  
+- Visualization of quantity sold, sales revenue, and profit margins for different time periods.  
+
+---
+
+## **Technologies Used**  
+- **Power BI**: For building interactive dashboards and visualizing trends in sales, profit, and discounts.  
+- **Excel**: For initial data analysis and calculations.  
+
+---
+
+## **Usage**  
+- **Sales Managers**:  
+  - Use the report to track monthly performance and identify high-performing products and regions.  
+- **Marketing Teams**:  
+  - Leverage insights to fine-tune promotional strategies based on discount and profit trends.  
+- **Business Analysts**:  
+  - Analyze the data for deeper insights into sales trends, customer preferences, and market behavior.  
+
+---
+
+This **TechnoEdge Product Transaction Analytics Report** demonstrates how detailed sales data can be leveraged to enhance
+decision-making, improve sales strategies, and maximize profits.
