@@ -1,11 +1,11 @@
-In this we contain data about the technoedge sales.
-The data is from the year 2020-2022 for every month.
-This data contains the order details,customer details,category and subcategory details,product name along with the discount and profit.
-We have build a report by using this data according to our convienience,the information we want.
+
 # **TechnoEdge Sales Analytics Report**
 
 ## **Description**  
-This project analyzes the sales data from **TechnoEdge** for the years **2020–2022**. The dataset provides detailed insights into **order details**, **customer information**, **product categories**, **subcategories**, as well as **discounts** and **profits**. Based on this data, a report was created to extract key insights tailored to business needs, enabling better decision-making for sales and profitability strategies.
+This project analyzes the sales data from **TechnoEdge** for the years **2020–2022**. The dataset provides detailed insights
+into **order details**, **customer information**, **product categories**, **subcategories**, as well as **discounts** and
+**profits**. Based on this data, a report was created to extract key insights tailored to business needs, enabling better 
+decision-making for sales and profitability strategies.
 
 ---
 
@@ -16,7 +16,8 @@ The dataset contains the following key details:
 - **Product Details**: Product name, category, and subcategory.  
 - **Sales Metrics**: Discount applied, profit margins, and total sales values.  
 
-> **Source**: The data spans from January 2020 to December 2022, offering monthly insights into sales performance and customer behavior.
+> **Source**: The data spans from January 2020 to December 2022, offering monthly insights into sales performance and 
+customer behavior.
 
 ---
 
@@ -31,7 +32,6 @@ The dataset contains the following key details:
 ## **Technologies Used**  
 - **Power BI**: For dynamic and interactive dashboards, and visualizing sales trends.  
 - **Excel**: For initial data storage and basic analysis.  
-- **SQL**: For data extraction and querying to filter relevant details.  
 
 ---
 
@@ -45,4 +45,5 @@ The dataset contains the following key details:
 
 ---
 
-This **TechnoEdge Sales Analytics Report** demonstrates the power of sales data analysis in driving profitable business strategies and improving customer satisfaction.
+This **TechnoEdge Sales Analytics Report** demonstrates the power of sales data analysis in driving profitable business 
+strategies and improving customer satisfaction.
