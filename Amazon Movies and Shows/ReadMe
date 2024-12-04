@@ -1,3 +1,67 @@
-In this folder it contains the data about the Amazon prime video movies and tv shows.
-The file contains details about director,genre,release year and the many more information about the movies and tv shows.
-The report was built based on this data according to our requirement or according to the end user.
+Amazon Prime Video Movies and TV Shows Analysis
+
+Description :
+This project involves analyzing the dataset of Amazon Prime Video's movies and TV shows. The dataset includes details such as director,
+genre, release year, and various other attributes. Based on this data, a comprehensive report and dashboard were built to meet
+the requirements of end users, providing valuable insights into the platform's content catalog.
+
+Dataset Overview
+The dataset provides detailed information about Amazon Prime Video's offerings, including:
+
+Title: Name of the movie/TV show.
+Director: Name of the director(s).
+Genre: Primary genre(s).
+Release Year: Year the content was released.
+Duration: Length of the movie/TV show.
+Country: Country of origin.
+Ratings: Viewer ratings and parental guidance.
+Description: Brief synopsis of the content.
+Source: The dataset was curated to enable content analysis and audience understanding.
+
+Features
+Detailed analysis of Amazon Prime Video's content library.
+Insights into popular genres, directors, and countries of origin.
+Year-wise trend analysis for content release.
+Report and visualizations tailored for end users to identify:
+Most common genres.
+Most prolific directors.
+Release trends by year.
+Technologies Used
+Power BI: For building interactive dashboards and visualizations.
+Python: For data cleaning, transformation, and preliminary analysis.
+SQL: For querying and managing the dataset.
+Setup Instructions
+Clone this repository:
+bash
+Copy code
+git clone https://github.com/YourUsername/Amazon-Prime-Video-Analysis.git
+Load the dataset (amazon_prime_video_data.csv) into your SQL server or analysis tool.
+Use the Power BI file (amazon_prime_dashboard.pbix) to explore the pre-built dashboard.
+(Optional) Use the Python scripts (data_cleaning.py) for additional data preprocessing.
+Usage
+End Users:
+View the Power BI dashboard to extract insights on Amazon Prime Video's catalog.
+Analyze trends, genres, and country-specific distributions.
+Developers/Analysts:
+Use the Python scripts for further data cleaning and exploratory analysis.
+Enhance or modify the Power BI dashboard as needed.
+Screenshots
+Dashboard Overview
+
+Genre Analysis
+
+Contributing
+Contributions are welcome! If you'd like to contribute:
+
+Fork this repository.
+Create a feature branch:
+bash
+Copy code
+git checkout -b feature-name
+Commit your changes and push them to your fork.
+Submit a pull request.
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+Author
+If you have any questions or suggestions, feel free to reach out!
