@@ -1,3 +1,44 @@
-This folder contains information about the bikes.
-The data is in excel file and we transfered the data into the database in SSMS and we selected specific columns with joining the different tables in year 2021,2022.
-We build a report based on this query information in the table.
+# **Bike Sales and Analytics Report**
+
+## **Description**  
+This project involves analyzing a dataset containing detailed information about bikes. The raw data was stored in **CSV format** and later transferred into a **SQL Server Management Studio (SSMS) database**. Specific columns were selected by performing queries with **joins across multiple tables** for the years **2021** and **2022**. Based on the resulting query, a report was built to meet business and end-user requirements.
+
+---
+
+## **Dataset Overview**  
+The dataset contains the following key information:  
+- **Bike Details**: Types, models, and specifications of bikes.  
+- **Sales Data**: Yearly sales for 2021 and 2022, including revenue and transaction details.  
+- **Customer Information**: Demographics and purchase history.  
+- **Store Locations**: Details about the outlets where bikes are sold.  
+
+> **Source**: The dataset was designed to analyze bike sales trends and support data-driven business strategies.
+
+---
+
+## **Features**  
+- Insights into sales performance for the years 2021 and 2022.  
+- Analysis of customer purchase trends based on demographics.  
+- Store-level performance metrics and sales distribution.  
+- Visualizations of sales trends and revenue contributions by bike models.  
+
+---
+
+## **Technologies Used**  
+- **SQL Server Management Studio (SSMS)**: For data storage, querying, and table joins.  
+- **Power BI**: For building dynamic reports and dashboards.  
+- **Excel**: For initial data storage and preprocessing.  
+
+---
+
+## **Usage**  
+- **Business Analysts**:  
+  - Use the report to identify high-performing bike models and sales trends.  
+- **Store Managers**:  
+  - Leverage insights to optimize inventory and improve outlet performance.  
+- **Data Enthusiasts**:  
+  - Explore the dataset and SQL queries to practice database management and reporting.  
+
+---
+
+This **Bike Sales and Analytics Report** showcases the value of integrating database queries with reporting tools to generate actionable insights and drive business success.
