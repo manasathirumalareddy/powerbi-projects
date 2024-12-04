@@ -2,3 +2,47 @@ In this we contain data about the technoedge sales.
 The data is from the year 2020-2022 for every month.
 This data contains the order details,customer details,category and subcategory details,product name along with the discount and profit.
 We have build a report by using this data according to our convienience,the information we want.
+# **TechnoEdge Sales Analytics Report**
+
+## **Description**  
+This project analyzes the sales data from **TechnoEdge** for the years **2020–2022**. The dataset provides detailed insights into **order details**, **customer information**, **product categories**, **subcategories**, as well as **discounts** and **profits**. Based on this data, a report was created to extract key insights tailored to business needs, enabling better decision-making for sales and profitability strategies.
+
+---
+
+## **Dataset Overview**  
+The dataset contains the following key details:  
+- **Order Details**: Transaction information including order ID, quantity, and order date.  
+- **Customer Details**: Information about customers, including demographics and location.  
+- **Product Details**: Product name, category, and subcategory.  
+- **Sales Metrics**: Discount applied, profit margins, and total sales values.  
+
+> **Source**: The data spans from January 2020 to December 2022, offering monthly insights into sales performance and customer behavior.
+
+---
+
+## **Features**  
+- Monthly sales analysis for the years 2020 to 2022.  
+- Profit and discount trends based on product categories and subcategories.  
+- Insights into customer demographics and purchasing behavior.  
+- Visualizations of product performance, discounts, and profit margins.  
+
+---
+
+## **Technologies Used**  
+- **Power BI**: For dynamic and interactive dashboards, and visualizing sales trends.  
+- **Excel**: For initial data storage and basic analysis.  
+- **SQL**: For data extraction and querying to filter relevant details.  
+
+---
+
+## **Usage**  
+- **Sales Teams**:  
+  - Use the report to track monthly sales trends, identify high-performing products, and manage inventory.  
+- **Marketing Teams**:  
+  - Leverage insights on customer behavior, product categories, and discount effectiveness to plan targeted campaigns.  
+- **Business Analysts**:  
+  - Explore the data to uncover profit patterns, sales opportunities, and customer preferences.  
+
+---
+
+This **TechnoEdge Sales Analytics Report** demonstrates the power of sales data analysis in driving profitable business strategies and improving customer satisfaction.
